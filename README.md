@@ -85,30 +85,25 @@ In the episode with the same initialization, the four policies included in `trai
 
 1.) SoNIC:
 
-<video controls style="max-width: 400px; width: 100%;">
-  <source src="visualizations/SoNIC_GST/0_success.mp4" type="video/mp4">
-</video>
+<img src="visualizations/SoNIC_GST/0_success.gif" width="400" />
+
 
 2.) CrowdNav++:
 
-<video controls style="max-width: 400px; width: 100%;">
-  <source src="visualizations/GST_predictor_rand/0_collision.mp4" type="video/mp4">
-</video>
+<img src="visualizations/GST_predictor_rand/0_collision.gif" width="400" />
+
 
 3.) ORCA:
 
-<video controls style="max-width: 400px; width: 100%;">
-  <source src="visualizations/ORCA/0_success.mp4" type="video/mp4">
-</video>
+<img src="visualizations/ORCA/0_success.gif" width="400" />
+
 
 4.) Social Force:
 
-<video controls style="max-width: 400px; width: 100%;">
-  <source src="visualizations/SF/0_time_out.mp4" type="video/mp4">
-</video>
+<img src="visualizations/SF/0_time_out.gif" width="400" />
 
-You can also generate some visualizations by yourself by running `python visualize.py`!
+You can also generate some other visualizations by yourself by running `python visualize.py`!
 
 ## Acknowledgement
 
-We sincerely thank the researchers and developers for [CrowdNav](https://github.com/vita-epfl/CrowdNav), [CrowdNav++](https://github.com/Shuijing725/CrowdNav_Prediction_AttnGraph), [Gumble Social Transformer](https://sites.google.com/view/gumbel-social-transformer), and [OmniSafe](https://github.com/PKU-Alignment/omnisafe) for their amazing work.
+We sincerely thank the researchers and developers for [CrowdNav](https://github.com/vita-epfl/CrowdNav), [CrowdNav++](https://github.com/Shuijing725/CrowdNav_Prediction_AttnGraph), [Gumble Social Transformer](https://sites.google.com/view/gumbel-social-transformer), [DtACI](https://github.com/isgibbs/DtACI), and [OmniSafe](https://github.com/PKU-Alignment/omnisafe) for their amazing work.
