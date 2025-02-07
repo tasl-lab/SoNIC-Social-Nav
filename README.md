@@ -104,6 +104,19 @@ In the episode with the same initialization, the four policies included in `trai
 
 You can also generate some other visualizations by yourself by running `python visualize.py`!
 
+## Citation
+
+If you find our work useful, please consider citing our paper:
+
+```
+@article{yao2024sonic,
+  title={Sonic: Safe social navigation with adaptive conformal inference and constrained reinforcement learning},
+  author={Yao, Jianpeng and Zhang, Xiaopan and Xia, Yu and Wang, Zejin and Roy-Chowdhury, Amit K and Li, Jiachen},
+  journal={arXiv preprint arXiv:2407.17460},
+  year={2024}
+}
+```
+
 ## Acknowledgement
 
 We sincerely thank the researchers and developers for [CrowdNav](https://github.com/vita-epfl/CrowdNav), [CrowdNav++](https://github.com/Shuijing725/CrowdNav_Prediction_AttnGraph), [Gumble Social Transformer](https://sites.google.com/view/gumbel-social-transformer), [DtACI](https://github.com/isgibbs/DtACI), and [OmniSafe](https://github.com/PKU-Alignment/omnisafe) for their amazing work.
