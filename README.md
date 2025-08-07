@@ -1,4 +1,5 @@
 # SoNIC-Social-Nav
+## For latest releases, please see [https://github.com/tasl-lab/GenSafeNav](https://github.com/tasl-lab/GenSafeNav)
 This is the codebase for the paper: _[SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning](https://arxiv.org/abs/2407.17460)_.
 
 For more information, please also check:
